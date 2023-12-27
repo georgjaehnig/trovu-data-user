@@ -13,6 +13,9 @@ namespaces:
 - lge
 - github: texttheater
 - url: https://jaehnig.org/shortcuts.yml
+- name: embedded
+  shortcuts:
+    test 0: https://www.test.de/
 - github: .
 language: de
 country: de
