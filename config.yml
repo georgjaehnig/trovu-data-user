@@ -12,6 +12,7 @@ namespaces:
 - dcm
 - lge
 - github: texttheater
+- url: https://jaehnig.org/trovu-data-user/shortcuts.yml
 - name: emb
   shortcuts:
     test 0: https://www.test.de/
