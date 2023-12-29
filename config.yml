@@ -12,8 +12,6 @@ namespaces:
 - dcm
 - lge
 - github: texttheater
-- name: jae
-  url: https://jaehnig.org/shortcuts.yml
 - name: emb
   shortcuts:
     test 0: https://www.test.de/
