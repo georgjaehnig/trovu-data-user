@@ -39,6 +39,4 @@ trovu 0: https://trovu.net/#github=georgjaehnig
 cd 2: https://www.cd.cz/default.htm#serchilo[fill][%23connection-from]={%odkud|type=city}&serchilo[fill][%23connection-to]={%kam|type=city}&serchilo[submit]=button.search-btn
 cd 3: https://www.cd.cz/default.htm#serchilo[fill][%23connection-from]={%odkud|type=city}&serchilo[fill][%23connection-to]={%kam|type=city}&serchilo[fill][input%5Bname%3Dcalendar%5D]={%datum|type=date|output=DD/MM/YYYY}&serchilo[submit]=button.search-btn
 ctv 0:
-  include:
-    key: ccctv 0
-    namespace: o
+  include: ccctv 0
