@@ -1,4 +1,4 @@
-# T1
+# T2
 b] 1:
   url: 'https://reiseauskunft.bahn.de/bin/query.exe/d?S=8089006&Z=<Ziel: {type: city}>%21&start=1'
   title: DB-Auskunft von S Betriebsbahnhof Rummelsburg
