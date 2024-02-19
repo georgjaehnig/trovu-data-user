@@ -42,8 +42,9 @@ cd 2:
 - tags:
   - needs-userscript
   - travel
-cd 3: 
+cd 3:
 - url: https://www.cd.cz/default.htm#serchilo[fill][%23connection-from]={%odkud|type=city}&serchilo[fill][%23connection-to]={%kam|type=city}&serchilo[fill][input%5Bname%3Dcalendar%5D]={%datum|type=date|output=DD/MM/YYYY}&serchilo[submit]=button.search-btn
 - tags:
   - needs-userscript
   - travel
+  
