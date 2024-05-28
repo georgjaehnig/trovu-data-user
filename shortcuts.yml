@@ -1,3 +1,6 @@
+db> 1: 'https://mobile.bahn.de/bin/mobil/query.exe/dox?S=berlin&Z=<Ziel: {type: city}>%21&start=1'
+db> 2: 'https://mobile.bahn.de/bin/mobil/query.exe/dox?S=berlin&Z=<Ziel: {type: city}>%21&T=<Zeit: {type: time, output: HH:mm}>&start=1'
+db> 3: 'https://mobile.bahn.de/bin/mobil/query.exe/dox?S=berlin&Z=<Ziel: {type: city}>%21&T=<Zeit: {type: time, output: HH:mm}>&D=<Datum: {type: date, output: DD.MM.YYYY}>&start=1'
 gd> 1:
   url: 'https://maps.google.com/maps?hl=<$language>&saddr=berlin,dunckerstr+11&daddr=<destination: {type: city}>'
   title: Google Maps Directions (Routing)
