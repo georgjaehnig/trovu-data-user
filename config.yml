@@ -8,9 +8,7 @@ namespaces:
 - eo
 - de
 - .de
-- pka
-- dcm
-- lge
+- szn
 - name: emb
   shortcuts:
     test 0: https://www.test.de/
