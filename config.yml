@@ -9,6 +9,8 @@ namespaces:
 - de
 - .de
 - szn
+- old-de
+- old-o
 - name: emb
   shortcuts:
     test 0: https://www.test.de/
