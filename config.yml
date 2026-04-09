@@ -1,6 +1,5 @@
 namespaces:
 - o
-- hr
 - cs
 - .cz
 - pl
@@ -9,15 +8,6 @@ namespaces:
 - de
 - .de
 - szn
-- old-de
-- old-o
-- name: emb
-  shortcuts:
-    test 0: https://www.test.de/
-    eau 1:
-      include: 
-        key: e 1
-        namespace: .au 
 - github: .
 language: de
 country: de
